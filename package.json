@@ -1,0 +1,17 @@
+{
+  "name": "micro-loader.js",
+  "version": "1.0.1",
+  "description": "javascript micro-loader",
+  "homepage": "http://github.com/hechangmin/micro-loader",
+  "main": "./lib/micro-loader.min.js",
+  "keywords": ["loader"],
+  "author": {
+    "name": "hechangmin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hechangmin/micro-loader.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
